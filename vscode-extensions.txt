@@ -2,7 +2,6 @@
 alefragnani.bookmarks
 arjun.swagger-viewer
 asciidoctor.asciidoctor-vscode
-azurite.azurite
 bazelbuild.vscode-bazel
 bbenoist.nix
 bdavs.expect
@@ -42,7 +41,6 @@ jeppeandersen.raml
 jhipster-ide.jdl
 jnoortheen.nix-ide
 jock.svg
-johnstoncode.svn-scm
 khaeransori.json2csv
 lgdd.vscode-osgi
 mechatroner.rainbow-csv
@@ -55,21 +53,10 @@ mikestead.dotenv
 mosapride.zenkaku
 mrmlnc.vscode-duplicate
 mrmlnc.vscode-scss
-ms-azuretools.vscode-azurecontainerapps
-ms-azuretools.vscode-azurefunctions
-ms-azuretools.vscode-azureresourcegroups
-ms-azuretools.vscode-azurestorage
-ms-azuretools.vscode-bicep
-ms-azuretools.vscode-containers
-ms-azuretools.vscode-docker
 ms-ceintl.vscode-language-pack-ja
 ms-dotnettools.vscode-dotnet-runtime
 ms-kubernetes-tools.kind-vscode
 ms-kubernetes-tools.vscode-kubernetes-tools
-ms-mssql.data-workspace-vscode
-ms-mssql.mssql
-ms-mssql.sql-bindings-vscode
-ms-mssql.sql-database-projects-vscode
 ms-playwright.playwright
 ms-python.black-formatter
 ms-python.debugpy
@@ -99,8 +86,6 @@ ms-vscode.powershell
 ms-vscode.remote-explorer
 ms-vscode.remote-server
 ms-vscode.vscode-typescript-next
-mtxr.sqltools
-mtxr.sqltools-driver-mysql
 naco-siren.gradle-language
 nicolasvuillamy.vscode-groovy-lint
 nidu.copy-json-path
